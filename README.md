@@ -1,5 +1,4 @@
 # MyRepository
 
 First change
-
-second change
+Updates made on master on Github before rebase
